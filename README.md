@@ -1,8 +1,8 @@
 
-FHOTO.
-![My Image]()
-https://github.com/Exileominous/ORBITRON/blob/main/scr2.gif?raw=true
-https://github.com/Exileominous/ORBITRON/blob/main/scr3.gif?raw=true
+PREVIEW.
+![My Image](scr1.gif)
+![My Image](scr2.gif)
+![My Image](scr3.gif)
 
 ```
 FEATURES.

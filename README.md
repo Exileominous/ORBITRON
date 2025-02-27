@@ -1,7 +1,10 @@
-````
+
 FHOTO.
+https://github.com/Exileominous/ORBITRON/blob/main/scr1.gif?raw=true
+https://github.com/Exileominous/ORBITRON/blob/main/scr2.gif?raw=true
+https://github.com/Exileominous/ORBITRON/blob/main/scr3.gif?raw=true
 
-
+```
 FEATURES.
 NORAD SGP4/SDP4 prediction models
 20 000 satellites can be loaded from TLE file(s) (auto: PC/Unix, 2/3 line)
@@ -25,6 +28,7 @@ Rotor/radio control (built-in or user's driver support)
 Windows screen-saver included
 Translations supported
 and many, many, more...
+````
 
 DONWLOAD TOOLS EXE FOR WINDOWS 7,8,9,10,11
 LINK - https://www.stoff.pl/orbitron/files/orbitron.exe
